@@ -2,6 +2,8 @@
 
 Alunos: Luís Felipe Borsoi & Felipe Drumm
 
+[Repositório](https://github.com/luisfelipe998/protocol-spec)
+
 ---
 
 ## 🧭 Contexto da Aplicação
